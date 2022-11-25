@@ -5,3 +5,4 @@ mod square_ever_digit;
 mod create_phone_number;
 mod counting_duplicates;
 mod mumbling;
+mod spin_words;
