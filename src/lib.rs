@@ -6,3 +6,4 @@ mod create_phone_number;
 mod counting_duplicates;
 mod mumbling;
 mod spin_words;
+mod delete_nth;
