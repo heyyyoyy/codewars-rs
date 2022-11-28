@@ -9,3 +9,4 @@ mod spin_words;
 mod delete_nth;
 mod likes;
 mod move_zeros;
+mod disemvowel;
